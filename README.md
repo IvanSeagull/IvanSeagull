@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -18,15 +17,20 @@ Here are some ideas to get you started:
 <!-- Header -->
 
   <h1 align="">
-     Hi! I am a Junior Frontend Developer! 
+     Hi! My name is Ivan Seagull 
   </h1>
+- 🌱 I’m currently learning, working my skills in web development.
 <br/>
-#About me:
+- 👨🏽‍💻 Want to be a Full Stack Developer.
+
+  <!-- <p>am a Junior Frontend Developer!</p> -->
+<br/>
+<h2>About me:</h2>
 <h4>
 I am an ordinary guy from Moscow who is keen on programming and creating something new. I am far from the best in this business. But I am very stubborn and assiduous. I have already completed several projects. But that's not all. I still have a bunch of plans and many projects that I want to realize. So stay tuned, hope it will be fun
 </h4>
 <br/>
-###Languages:
+<h3>Languages:</h3>
 
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Nodejs-090909?style=for-the-badge&logo=node.js">
@@ -41,7 +45,7 @@ I am an ordinary guy from Moscow who is keen on programming and creating somethi
 
 <!-- ###Tools: -->
 
-###Skills:
+<h3>Skills:</h3>
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=Redux">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=Redux">
