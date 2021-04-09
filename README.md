@@ -47,10 +47,9 @@ I am an ordinary guy from Moscow who is keen on programming and creating somethi
 
 <h3>Skills:</h3>
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react">
+
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=Redux">
-<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=Redux">
-<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Visual Studio Code-090909?style=for-the-badge&logo=visual%20studio%20code
-">
+<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Visual Studio Code-090909?style=for-the-badge&logo=visual%20studio%20code">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github">
 
