@@ -39,6 +39,7 @@ I am an ordinary guy from Moscow who is keen on programming and creating somethi
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Css3-090909?style=for-the-badge&logo=css3">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Php-090909?style=for-the-badge&logo=php">
+<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-dart-090909?style=for-the-badge&logo=dart">
 
 <br/>
 <br/>
@@ -53,15 +54,16 @@ I am an ordinary guy from Moscow who is keen on programming and creating somethi
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github">
 
+<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase">
+
 <!-- <br/> -->
 <!-- <br/> -->
 
 <br/>
 <br/>
-
-<!-- ![Js](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python) -->
 
 Follow me
 
-<img src="https://github-readme-stats.vercel.app/api?username=IvanSeagull&theme=light&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=IvanSeagull&theme=dark&show_icons=true">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanseagull&layout=compact&theme=dark)
