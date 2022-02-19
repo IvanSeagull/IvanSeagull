@@ -35,8 +35,9 @@ I am an ordinary guy from Moscow who is keen on programming and creating somethi
 <br/>
 
 <h3>Frontend: </h3>
-
+<div style="margin-bottom: 15px">
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react">
+</div>
 
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=090909&logo=Next.js&logoColor=FFFFFF&label=">
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=Redux">
