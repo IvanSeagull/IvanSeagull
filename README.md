@@ -52,12 +52,13 @@ I am an ordinary guy from Moscow who is keen on programming and creating somethi
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Nodejs-090909?style=for-the-badge&logo=node.js">
 
 <img style="margin-right:15px; margin-top: 15px; " src="https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express">
+<img style="margin-right:15px; margin-top: 15px; " src="https://img.shields.io/badge/-Nestjs-090909?style=for-the-badge&logo=nestjs">
 
 <hr/>
 <h3>Databases:</h3>
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=090909&logo=MongoDB&logoColor=47A248&label="/>
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase">
-
+<img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Graphql-090909?style=for-the-badge&logo=graphql&logoColor=e535ab">
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgresql">
 <img  style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-MySql-090909?style=for-the-badge&logoColor=ffffff&logo=mysql">
 
@@ -81,6 +82,7 @@ I am an ordinary guy from Moscow who is keen on programming and creating somethi
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git">
 <img  style="margin-right:15px" src="https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github">
 
+<img  style="margin-right:15px" src="https://img.shields.io/badge/-Heroku-090909?style=for-the-badge&logo=heroku&logoColor=430098">
 <!-- <br/> -->
 <!-- <br/> -->
 
