@@ -67,7 +67,7 @@ I am an ordinary guy from Moscow who is keen on programming and creating somethi
 <h3>Languages:</h3>
 
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript">
-
+<img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript">
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python">
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5">
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Css3-090909?style=for-the-badge&logo=css3">
