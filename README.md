@@ -51,7 +51,7 @@ I am an ordinary guy from Moscow who is keen on programming and creating somethi
 <h3>Backend:</h3>
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Nodejs-090909?style=for-the-badge&logo=node.js">
 
-<img style="margin-right:15px; margin-top: 15px; " src="https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express">
+<img align="left" style="margin-right:15px; margin-top: 15px; " src="https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express">
 <img style="margin-right:15px; margin-top: 15px; " src="https://img.shields.io/badge/-Nestjs-090909?style=for-the-badge&logo=nestjs">
 
 <hr/>
@@ -80,7 +80,7 @@ I am an ordinary guy from Moscow who is keen on programming and creating somethi
 
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Visual Studio Code-090909?style=for-the-badge&logo=visual%20studio%20code">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git">
-<img  style="margin-right:15px" src="https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github">
+<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github">
 
 <img  style="margin-right:15px" src="https://img.shields.io/badge/-Heroku-090909?style=for-the-badge&logo=heroku&logoColor=430098">
 <!-- <br/> -->
