@@ -68,9 +68,10 @@ I am an ordinary guy from Moscow who is keen on programming and creating somethi
 
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript">
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript">
+<img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-solidity-090909?style=for-the-badge&logo=solidity">
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python">
-<img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5">
-<img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Css3-090909?style=for-the-badge&logo=css3">
+<!-- <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5">
+<img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Css3-090909?style=for-the-badge&logo=css3"> -->
 
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Php-090909?style=for-the-badge&logo=php">
 <img  style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=000000&logo=Java&logoColor=FFFFFF&label=">
@@ -81,6 +82,8 @@ I am an ordinary guy from Moscow who is keen on programming and creating somethi
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Visual Studio Code-090909?style=for-the-badge&logo=visual%20studio%20code">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github">
+
+<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-gitlab-090909?style=for-the-badge&logo=gitlab">
 
 <img  style="margin-right:15px" src="https://img.shields.io/badge/-Heroku-090909?style=for-the-badge&logo=heroku&logoColor=430098">
 <!-- <br/> -->
@@ -95,5 +98,6 @@ I am an ordinary guy from Moscow who is keen on programming and creating somethi
 
 <img src="https://wakatime.com/share/@ea96ee46-909d-45fd-adee-dfa864e74ace/3b83177a-5477-48f9-9e1e-43dcd37797d3.svg" height="400"/>
 
+<img alt="IvanSeagull's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanSeagull&theme=radical"/>
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanseagull&layout=compact&theme=dark) -->
