@@ -94,10 +94,21 @@ I am an ordinary guy from Moscow who is keen on programming and creating somethi
 
 <img src="https://github-readme-stats.vercel.app/api?username=IvanSeagull&theme=dark&show_icons=true">
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=IvanSeagull&theme=dark&date_format=M%20j%5B%2C%20Y%5D" >
+
+<img alt="IvanSeagull's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanSeagull&theme=dark"/>
 <img src="https://wakatime.com/share/@ea96ee46-909d-45fd-adee-dfa864e74ace/a5c5f8e4-16c8-486f-a8b4-2d23d9987472.svg" height="400"/>
 
 <img src="https://wakatime.com/share/@ea96ee46-909d-45fd-adee-dfa864e74ace/3b83177a-5477-48f9-9e1e-43dcd37797d3.svg" height="400"/>
 
-<img alt="IvanSeagull's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanSeagull&theme=radical"/>
+<!--LANGUAGES
+WEBSITE:
+
+
+<!--
+<img align="center" src="http://s05.flagcounter.com/count/QBT/bg_000000/txt_22B7DB/border_CCCCCC/columns_9/maxflags_300/viewers_0/labels_0/pageviews_1/flags_1/" /><a href="https://info.flagcounter.com/AyNK"></a>
+
+<!-- <a href="https://info.flagcounter.com/V0gE"><img src="https://s01.flagcounter.com/count2/V0gE/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_300/viewers_0/labels_0/pageviews_1/flags_1/percent_0/" alt="Flag Counter" border="0"></a> -->
+
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanseagull&layout=compact&theme=dark) -->
