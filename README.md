@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 <!-- Header -->
 
   <h1 align="">
-     Hello World! 
-     <img src="https://raw.githubusercontent.com/suiramdev/suiramdev/9b1e9684c37a48d2951936e87182cb39d55b33b4/assets/wave.gif" width="32px"/>
+     Hello World! 👋
   </h1>
 - 🌱 I’m currently learning, working my skills in web development.
 <br/>
@@ -30,7 +29,7 @@ Here are some ideas to get you started:
 <br/>
 <h2>About me:</h2>
 <h4>
-I am an ordinary guy from Moscow who is keen on programming and creating something new. I am far from the best in this business. But I am very stubborn and assiduous. I have already completed several projects. But that's not all. I still have a bunch of plans and many projects that I want to realize. So stay tuned, hope it will be fun
+I am an ordinary guy from Moscow who is keen on programming and creating something new. I am far from the best in this business. But I am very stubborn and assiduous.
 </h4>
 <br/>
 
@@ -83,9 +82,9 @@ I am an ordinary guy from Moscow who is keen on programming and creating somethi
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github">
 
-<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-gitlab-090909?style=for-the-badge&logo=gitlab">
+<img align="left" style="margin-bottom: 15px; margin-right:15px" src="https://img.shields.io/badge/-gitlab-090909?style=for-the-badge&logo=gitlab">
 
-<img  style="margin-right:15px" src="https://img.shields.io/badge/-Heroku-090909?style=for-the-badge&logo=heroku&logoColor=430098">
+<img  style=";margin-right:15px" src="https://img.shields.io/badge/-Heroku-090909?style=for-the-badge&logo=heroku&logoColor=430098">
 <!-- <br/> -->
 <!-- <br/> -->
 
@@ -100,10 +99,8 @@ I am an ordinary guy from Moscow who is keen on programming and creating somethi
 <img src="https://wakatime.com/share/@ea96ee46-909d-45fd-adee-dfa864e74ace/a5c5f8e4-16c8-486f-a8b4-2d23d9987472.svg" height="400"/>
 
 <img src="https://wakatime.com/share/@ea96ee46-909d-45fd-adee-dfa864e74ace/3b83177a-5477-48f9-9e1e-43dcd37797d3.svg" height="400"/>
-
 <!--LANGUAGES
 WEBSITE:
-
 
 <!--
 <img align="center" src="http://s05.flagcounter.com/count/QBT/bg_000000/txt_22B7DB/border_CCCCCC/columns_9/maxflags_300/viewers_0/labels_0/pageviews_1/flags_1/" /><a href="https://info.flagcounter.com/AyNK"></a>
