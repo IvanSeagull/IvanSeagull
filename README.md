@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br/>
 <h2>About me:</h2>
 <h4>
-I am an ordinary guy from Moscow who is keen on programming and creating something new. I am far from the best in this business. But I am very stubborn and assiduous.
+I am an ordinary guy from Moscow who is keen on programming and creating something new. I am at the beginning of my professional way. But I am very stubborn and assiduous.
 </h4>
 <br/>
 
