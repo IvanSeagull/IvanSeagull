@@ -96,7 +96,7 @@ I am an ordinary guy from Moscow who is keen on programming and creating somethi
 <img src="https://github-readme-streak-stats.herokuapp.com?user=IvanSeagull&theme=dark&date_format=M%20j%5B%2C%20Y%5D" >
 
 <img alt="IvanSeagull's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanSeagull&theme=dark"/>
-<img src="https://wakatime.com/share/@ea96ee46-909d-45fd-adee-dfa864e74ace/a5c5f8e4-16c8-486f-a8b4-2d23d9987472.svg" height="400"/>
+<!--<img src="https://wakatime.com/share/@ea96ee46-909d-45fd-adee-dfa864e74ace/a5c5f8e4-16c8-486f-a8b4-2d23d9987472.svg" height="400"/>-->
 
 <img src="https://wakatime.com/share/@ea96ee46-909d-45fd-adee-dfa864e74ace/3b83177a-5477-48f9-9e1e-43dcd37797d3.svg" height="400"/>
 <!--LANGUAGES
